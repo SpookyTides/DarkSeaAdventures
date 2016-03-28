@@ -1,2 +1,2 @@
-# DarkSeaAdventures
-[First] Pirates Adventure Game!
+# Dark Sea Adventures
+  Pirates Adventure Game!
